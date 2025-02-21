@@ -10,7 +10,7 @@ import Header from "@/components/Header.vue";
     <HeroHeader />
   </main>
 </template>
-
+<h1>test</h1>
 <style>
   html, body {
     margin: 0;
